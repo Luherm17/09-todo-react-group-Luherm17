@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/09-todo-react-group-Luherm17/static/css/main.31d6cfe0.css",
-    "main.js": "/09-todo-react-group-Luherm17/static/js/main.6a17ae43.js",
+    "main.css": "/09-todo-react-group-Luherm17/static/css/main.5a0cd579.css",
+    "main.js": "/09-todo-react-group-Luherm17/static/js/main.02373e84.js",
     "index.html": "/09-todo-react-group-Luherm17/index.html",
-    "main.6a17ae43.js.map": "/09-todo-react-group-Luherm17/static/js/main.6a17ae43.js.map"
+    "main.5a0cd579.css.map": "/09-todo-react-group-Luherm17/static/css/main.5a0cd579.css.map",
+    "main.02373e84.js.map": "/09-todo-react-group-Luherm17/static/js/main.02373e84.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.6a17ae43.js"
+    "static/css/main.5a0cd579.css",
+    "static/js/main.02373e84.js"
   ]
 }

@@ -13,9 +13,9 @@
     line-height: 26px;
 }
 
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+::placeholder {
     color: white;
-    opacity: 1; /* Firefox */
+    opacity: 1;
   }
 
 .add {
